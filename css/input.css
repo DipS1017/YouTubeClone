@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.header{
+    @apply flex flex-row  justify-between items-center p-2
+}
